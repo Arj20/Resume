@@ -44,9 +44,9 @@ ul > li {
   z-index: 2;
   box-shadow: 1px 2px 10px 0px black;
   background: #f4f4f4;
-  animation-name: opacity;
+  /* animation-name: opacity;
   animation-duration: 1s;
-  animation-timing-function: ease-out;
+  animation-timing-function: ease-out; */
 }
 
 @keyframes opacity {
